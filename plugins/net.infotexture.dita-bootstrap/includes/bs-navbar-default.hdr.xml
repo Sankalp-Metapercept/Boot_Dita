@@ -1,0 +1,49 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+    <!-- <a class="navbar-brand" href="/">
+     <image scalefit="yes" src="https://res.cloudinary.com/dn2q6aoex/image/upload/v1690443106/uulpghue0z3korqodvg3.png" width="auto" height="50px" />
+    </a>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link One</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link Two</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link Three</a>
+        </li>
+      </ul>
+    </div> -->
+    <div class="Head_Upper">
+      <div class="col-md-3 mb-2 mb-md-0">
+        <a href="index.html" class="d-inline-flex link-body-emphasis text-decoration-none">
+           <image scalefit="yes" src="https://res.cloudinary.com/dn2q6aoex/image/upload/v1690443106/uulpghue0z3korqodvg3.png" width="auto" height="50px" />
+        </a>
+      </div>
+
+      <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+        <li>
+         <a href="#" class="nav-link px-2 link-secondary">Home</a>
+      </li>
+
+        <li>
+         <a href="#" class="nav-link px-2 link-secondary">Features</a>
+      </li>
+
+        <li>
+         <a href="#" class="nav-link px-2 link-secondary">FAQs</a>
+      </li>
+
+        <li>
+         <a href="#" class="nav-link px-2 link-secondary">About</a>
+      </li>
+      </ul>
+       <form  class="d-lg-flex gap-3" role="search">
+          <input type="search" class="form-control form-control-dark" placeholder="Search..." aria-label="Search" />
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+  </div>
+</nav>
